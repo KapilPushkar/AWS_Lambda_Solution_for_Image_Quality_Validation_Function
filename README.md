@@ -1,0 +1,1 @@
+# AWS_Lambda_Solution_for_Image_Quality_Validation_Function
